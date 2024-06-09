@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var rls = require("readline-sync");
+var v1 = rls.questionInt("ingrese tiempo primer vuelta:");
+var v2 = rls.questionInt("ingrese tiempo segunda vuelta:");
+var v3 = rls.questionInt("ingrese tiempo tercer vuelta:");
+var v4 = rls.questionInt("ingrese tiempo cuarta vuelta:");
+var tiempototal = v1 + v2 + v3 + v4;
+var promedio = ((v1 + v2 + v3 + v4) / 4);
+console.log("Tiempo total de carrera:", tiempototal + "\n" + "Promedio por vuelta:", promedio);
