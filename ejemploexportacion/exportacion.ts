@@ -3,3 +3,4 @@ export function acomodarStr(cadena: string): any {
     const nuevoArray: string[] = datos2.split(" ");
     console.log(nuevoArray);
 }
+console.log();
