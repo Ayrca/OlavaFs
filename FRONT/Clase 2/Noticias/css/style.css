@@ -1,0 +1,74 @@
+/*Selector de tipo*/
+p
+{
+    color: blue;
+    font-size: 20px;
+    background-color: beige;
+}
+/*Selector de clase(empiezan con punto)*/
+.colorVerde
+{
+color: green;
+}
+/*Selector de id(se aplica a un solo elemento por archivo html sin excepcion)*/
+
+/*body
+{
+background-color: beige; Cambia color de fondo de la pagina
+}*/
+#especial
+{
+background-color: beige;
+font-size: 50px;
+}
+body
+/*{
+background-image: url(../imagenes/OIP.jfif);
+
+}*/
+/*div
+{
+background-color: brown;
+border: 3px solid black;
+}
+*/
+.encabezado{
+background-color: aqua;
+
+}
+.izquierda{
+}
+.derecha{
+
+}
+.footer{
+
+}
+.contenedor
+div
+{
+border-bottom: 10px solid salmon
+border-top 10px solid green;
+border-right: 20px solid orange ;
+border-left: 20px solid red ;
+}
+h1
+{text-align: center;
+color: brown
+}
+.encabezado
+{
+
+}
+.cuerpo
+{
+
+}
+.pie
+{
+
+}
+
+background-attachment: ;
+background-size: ;
+background-repeat: ;

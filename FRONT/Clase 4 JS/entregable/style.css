@@ -1,0 +1,37 @@
+body
+{
+    background-color: bisque;
+}
+div
+{
+
+}
+.nav-menu a {
+    color: white; /* Color del texto */
+    text-decoration: none; /* Sin subrayado */
+    padding: 14px 20px; /* Espaciado interno */
+    display: block; /* Hacer que el enlace ocupe el bloque completo */
+}
+.nav-menu li {
+    margin: 0 15px; /* Espaciado entre los elementos */
+}
+
+.nav-menu {
+    list-style-type: none; /* Eliminar los puntos de la lista */
+    margin: 0; /* Sin margen */
+    padding: 0; /* Sin padding */
+    display: flex; /* Usar flexbox para los elementos en línea */
+}
+.nav-menu a:hover {
+    background-color: gray; /* Color de fondo al pasar el mouse */
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: black;
+}
+a:visited{
+    color: purple;
+}

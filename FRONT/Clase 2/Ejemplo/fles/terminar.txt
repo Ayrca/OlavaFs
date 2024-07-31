@@ -1,0 +1,1 @@
+Recuerden modificar este codigo con flex para que quede ordenado como el ejemplo de la diapositiva (la que dice "Espectativa"

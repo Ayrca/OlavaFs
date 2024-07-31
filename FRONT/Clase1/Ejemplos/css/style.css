@@ -1,0 +1,22 @@
+/* Selector de tipo */
+p {
+    color: red;
+    font-size: 20px;
+}
+
+/* Selector de clase */
+.colorVerde {
+    color: green;
+}
+
+#especial {
+    color: yellow;
+    font-size: 50px;
+}
+
+body {
+    background-image: url("../imagenes/descarga.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

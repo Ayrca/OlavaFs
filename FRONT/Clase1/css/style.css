@@ -1,0 +1,32 @@
+/*Selector de tipo*/
+p
+{
+    color: blue;
+    font-size: 20px;
+    background-color: beige;
+}
+/*Selector de clase(empiezan con punto)*/
+.colorVerde
+{
+color: green;
+}
+/*Selector de id(se aplica a un solo elemento por archivo html sin excepcion)*/
+
+/*body
+{
+background-color: beige; Cambia color de fondo de la pagina
+}*/
+#especial
+{
+background-color: beige;
+font-size: 50px;
+}
+body
+{
+background-image: url(../imagenes/OIP.jfif);
+
+}
+/*
+background-attachment: ;
+background-size: ;
+background-repeat: ;
